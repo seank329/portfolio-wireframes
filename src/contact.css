@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+.Contact{
+    margin-top: 20vh;
+}
+
+.area{
+    border:1px solid black;
+    margin-left:20vw;
+    margin-right:20vw;
+    margin-top:2vh;
+    background-color: #DADADA;
+}
+
+@media only screen and (min-width:350px) and (max-width:500px){
+    
+    .Contact{
+        margin-top:30vh;
+    }
+
+}
